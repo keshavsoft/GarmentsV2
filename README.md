@@ -15,6 +15,8 @@ write end points in nodejs
 
 ### 0.1.2
 
+node verion supported : v21.7.3
+
 - binv4 added
 
 ## License
